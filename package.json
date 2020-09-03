@@ -1,0 +1,24 @@
+{
+  "name": "kvre-mono",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leslie-fi/kvre-mono.git"
+  },
+  "keywords": [
+    "sanityio",
+    "gatsbyjs",
+    "react"
+  ],
+  "author": "@leslie-fi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leslie-fi/kvre-mono/issues"
+  },
+  "homepage": "https://github.com/leslie-fi/kvre-mono#readme"
+}
